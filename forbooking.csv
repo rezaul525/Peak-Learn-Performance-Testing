@@ -1,0 +1,5 @@
+firstname,lastname,totalprice,depositpaid,checkin,checkout,additionalneeds
+Reza,Islam,200,TRUE,1,10,A
+Tonni ,Islam,300,TRUE,2,15,B
+Tahjib,Islam,400,FALSE,3,20,C
+Mahima ,Islam,500,FALSE,4,25,D
